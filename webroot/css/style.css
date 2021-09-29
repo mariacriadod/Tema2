@@ -13,3 +13,11 @@ footer{
     bottom: 0;
     text-align: center;
 }
+
+#subtitulo{
+    font-size: 30px;
+}
+
+main{
+    padding: 50px;
+}
